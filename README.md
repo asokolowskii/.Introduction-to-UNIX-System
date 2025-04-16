@@ -3,7 +3,8 @@
 This repository is a structured, practical reference guide with explanations, scripts, and command line examples for working efficiently in UNIX/Linux environments.
 
 📘 See:
-- [📄 Full PDF with command history](cheatsheets/unix_commands_full.pdf)
+- [📄 Full PDF with command history](.Introduction-to-UNIX-System
+/Introduction to UNIX system - Task Solutions, Examples and More.pdf)
 
 📘 Language: Polish / English mix (fully translatable)  
 💡 Focus: UNIX command line, scripting, file systems, process management, networking
